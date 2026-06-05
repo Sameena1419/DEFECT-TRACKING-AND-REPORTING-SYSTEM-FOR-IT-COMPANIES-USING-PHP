@@ -1,1 +1,3 @@
 # DEFECT-TRACKING-AND-REPORTING-SYSTEM-FOR-IT-COMPANIES-USING-PHP
+
+This project is designed to help IT companies efficiently track and manage software defects throughout the development lifecycle. The system enables project managers, developers, and testers to report issues, assign priorities, monitor defect status, and generate reports. It includes modules for project entry, project allocation, issue tracking, issue storage, prioritization, and reporting. The application improves productivity, reduces manual work, enhances reliability, and ensures better collaboration among development teams. Developed using PHP, HTML, and MySQL with a client-server architecture for secure and efficient data management.
